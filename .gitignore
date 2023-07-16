@@ -1,0 +1,5 @@
+/go.mod
+/bleve.dataset
+/.idea
+go-tut
+.DS_Store
